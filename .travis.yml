@@ -1,3 +1,6 @@
 language: java
 jdk: oraclejdk8
 script: mvn clean install test
+addons:
+	username:arun_sk
+	access_key:aaeeffd3-d658-4438-b226-bfdb40d1689c
