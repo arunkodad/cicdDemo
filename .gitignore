@@ -1,0 +1,22 @@
+.DS_Store
+*.class
+*.log
+
+*~
+
+logs/
+
+target/
+
+test-output
+
+
+
+
+# Eclipse
+
+.classpath
+
+.project
+
+.settings/
